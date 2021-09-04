@@ -1,0 +1,15 @@
+export const AUTH_USER = 'auth_user';
+export const UNAUTH_USER = 'unauth_user';
+export const AUTH_ERROR = 'auth_error';
+export const CREATE_PROJECT = "create_project";
+export const GET_PROJECTS = "create_project";
+export const UPDATE_PROJECT = "create_project";
+export const DELETE_PROJECT = "create_project";
+export const CREATE_TICKET = "create_project";
+export const GET_TICKETS = "create_project";
+export const UPDATE_TICKET = "create_project";
+export const DELETE_TICKET = "create_project";
+export const CREATE_COMMENT = "create_project";
+export const GET_COMMENTS = "create_project";
+export const UPDATE_COMMENT = "create_project";
+export const DELETE_COMMENT = "create_project";
